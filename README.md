@@ -6,4 +6,4 @@ If you have any ideas or suggestions feel free to let me know.
 
 
 
-data set link:  https://www.kaggle.com/datasets/khankhattak/multi-lingual-hs-dataset?select=dataset.csv
+
